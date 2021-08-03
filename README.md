@@ -1,5 +1,8 @@
 # facebook-clone 
-reactjs
+## Stack Used in this project: 
+#### reactjs + react Hooks, React Context Api -> Redux pattern, Material UI,
+#### Flexbox, Firebase's Firestore real Db,Firebase Hosting,
+#### Firebase Google Authentication Full Login (Full Login)
 
 
 ## Available Scripts
