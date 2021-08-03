@@ -1,21 +1,24 @@
 import "./App.css";
-import Header from './Components/Header/Header';
+import Header from "./Components/Header/Header";
+import AppBody from "./Components/AppBody/AppBody";
+import Sidebar from "./Components/Sidebar/Sidebar";
+import Feed from "./Components/Feed/Feed";
+import Widgets from "./Components/Widgets/Widgets";
 
 function App() {
   return (
     <div className="app">
-      <h1>Facebook</h1>
+      
 
-    <Header />
-      {/**Header */}
+      <Header />
 
-      {/**App body */}
+      <AppBody />
 
-      {/**Sidebar */}
+      <Sidebar />
 
-      {/**Feed */}
- 
-      {/**widgets */}
+      <Feed />
+
+      <Widgets />
     </div>
   );
 }
