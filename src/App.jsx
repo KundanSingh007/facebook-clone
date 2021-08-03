@@ -8,17 +8,22 @@ import Widgets from "./Components/Widgets/Widgets";
 function App() {
   return (
     <div className="app">
-      
-
       <Header />
+      <div className="appbody">
+        <AppBody />
+      </div>
 
-      <AppBody />
+      <div className="sidebar">
+        <Sidebar />
+      </div>
 
-      <Sidebar />
+      <div className="feed">
+        <Feed />
+      </div>
 
-      <Feed />
-
-      <Widgets />
+      <div className="widgets">
+        <Widgets />
+      </div>
     </div>
   );
 }
