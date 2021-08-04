@@ -1,6 +1,5 @@
 import "./App.css";
 import Header from "./Components/Header/Header";
-import AppBody from "./Components/AppBody/AppBody";
 import Sidebar from "./Components/Sidebar/Sidebar";
 import Feed from "./Components/Feed/Feed";
 import Widgets from "./Components/Widgets/Widgets";
@@ -9,12 +8,9 @@ function App() {
   return (
     <div className="app">
       <Header />
-      <div className="appbody">
-        <AppBody />
-      </div>
-
-      <div className="sidebar">
-        <Sidebar />
+   
+      <div className="app__body">
+        <Sidebar/>
       </div>
 
       <div className="feed">
