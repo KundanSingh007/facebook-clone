@@ -1,18 +1,22 @@
-import React from 'react'
-import './Feed.css'
-import StoryReel from '../Feed/StoryReel/StoryReel';
+import React from "react";
+import "./Feed.css";
+import StoryReel from "../Feed/StoryReel/StoryReel";
+import MessageSender from "./StoryReel/MessageSender/MessageSender";
+import Post from "./Post/Post";
 
 function Feed() {
-    return (
-        <div className="feed">
+  return (
+    <div className="feed">
+      <StoryReel />
 
-        <StoryReel />
-        {/**StoryReel */}
-        {/**MessageSender */}
+      <MessageSender />
 
-
-        </div>
-    )
+      <Post />
+      <Post />
+      <Post />
+      <Post />
+    </div>
+  );
 }
 
-export default Feed
+export default Feed;
