@@ -4,7 +4,6 @@
 ####  Material UI,Flexbox, Firebase's Firestore realtime Database,
 #### Firebase Hosting,Firebase Google Authentication Full Login.
 
-
 ## Available Scripts
 
 In the project directory, you can run:
