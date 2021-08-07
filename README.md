@@ -19,5 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 https://facebook-clone-bykd.web.app/
 
+`Login:` it will google auth so please just click `sign` then a `popup` will come, it will use your gmail.com id and password to login. 
+
 `Logout`
 Please use refresh or f5 to logout from this app.
