@@ -14,3 +14,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+
+### `Output:`
+
+https://facebook-clone-bykd.web.app/
+
+`Logout`
+Please use refresh or f5 to logout from this app.
