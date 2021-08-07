@@ -21,5 +21,4 @@ https://facebook-clone-bykd.web.app/
 
 ##### `Login:` it will use google auth so please just click `signin` then a `popup` will come, it will use your `gmail.com id` and `password` to login. 
 
-### `Logout:`
-##### Please use refresh or f5 to logout from this app.
+### `Logout:` ##### Please use refresh or f5 to logout from this app.
