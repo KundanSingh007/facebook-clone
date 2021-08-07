@@ -1,5 +1,5 @@
-# facebook-clone 
-## Stack Used in this project: 
+## A `facebook-clone:`
+### Stack Used in this project: 
 #### Reactjs + react Hooks, CSS, React Context Api => Redux pattern,
 ####  Material UI,Flexbox, Firebase's Firestore realtime Database,
 #### Firebase Hosting,Firebase Google Authentication Full Login.
